@@ -28,13 +28,13 @@ OWNER_ID = int(getenv("OWNER_ID", 6107980637))
 # Heroku deployment settings - Refer to Heroku documentation on how to obtain these
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/mrdevil42023/ANIME-X-MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ifgovtjoftibcdjpvd8nfiokbfobffob0vrb8bd/pihu2.0")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/devilbots971")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/devilbotsupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KITTU_UPDATE")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/kittusupport")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
